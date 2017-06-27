@@ -18,3 +18,13 @@ Map
     height: 800px;
  }
  #map { position:absolute; top:0; height: 500px; width:100%;}
+
+
+html,body{height:600px;padding:0px;margin:0px;}
+.storyjs-embed.full-embed {
+	border-radius: 10px !important;
+}
+#timeline-embed {
+  width: 100% !important;
+  border-radius: 10px !important;
+}
